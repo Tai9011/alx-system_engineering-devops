@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i '/c/d'
+sed -i '/c/d' 20-hiago
