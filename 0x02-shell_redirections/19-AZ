@@ -1,2 +1,2 @@
 #!/bin/bash
-grep
+sed 's/a/z/' 's/c/e/' 
