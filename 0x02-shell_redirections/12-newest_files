@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | head -10
+find . -type f -exec -t1 {} + | head -10
